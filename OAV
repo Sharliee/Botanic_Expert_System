@@ -1,0 +1,51 @@
+Objeto         Atributo         Valor
+
+Planta     Nombre               Marchantia Polymorpha
+Planta     Color de Hojas       Verde
+Planta     Color de Tallo       Marron o Morado
+Planta     Tamaño Minimo        10cm
+Planta     Tamaño Maximo        80cm
+Planta     Clima                Humedo
+Planta     Zona                 Tropical
+Planta     Tipo                 Hepaticas
+
+
+
+Objeto         Atributo         Valor
+
+Planta     Nombre               Jubula blepharophylla
+Planta     Color de Hojas       Morado
+Planta     Color de Tallo       Verde
+Planta     Tamaño Minimo        20cm
+Planta     Tamaño Maximo        50cm
+Planta     Clima                Templado
+Planta     Zona                 Tropical
+Planta     Tipo                 Hepaticas
+
+
+
+Objeto         Atributo         Valor
+
+Planta     Nombre               Grosella
+Planta     Color de Hojas       Naranja
+Planta     Color de Tallo       Verde
+Planta     Tamaño Minimo        100cm
+Planta     Tamaño Maximo        150cm
+Planta     Clima                Humedo
+Planta     Zona                 Tropical
+Planta     Tipo                 Arbusto
+
+
+
+Objeto         Atributo         Valor
+
+Planta     Nombre               Nepenthes
+Planta     Color de Hojas       Verde Amarillento
+Planta     Color de Tallo       Verde
+Planta     Tamaño Minimo        10cm
+Planta     Tamaño Maximo        25cm
+Planta     Clima                Humedo
+Planta     Zona                 Pantano
+Planta     Tipo                 Plantas Insectivoras
+
+
